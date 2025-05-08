@@ -1,3 +1,7 @@
+# pip install gradio nltk
+# import nltk
+# nltk.download('punkt')
+
 import gradio as gr
 from nltk.chat.util import Chat, reflections
 
